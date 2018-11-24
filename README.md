@@ -2,7 +2,7 @@
 This repository provides and entry point for the DAta Tag Suite (DATS) repositories.
 
 - [schema](https://github.com/datatagsuite/schema): This repository contains the JSON-schemas that constitute the DATS model. 
-- [context](https://github.com/datatagsuite/context): This repository contains the JSON-LD context files that can be used in combination wth the JSON-schemas to produce a JSON-LD representation of dataset descriptions
+- [context](https://github.com/datatagsuite/context): This repository contains the JSON-LD context files that can be used in combination with the JSON-schemas to produce a JSON-LD representation of dataset descriptions. We provide three sets of context files, based on the following vocabularies: schema.org, OBO Foundry ontologies, DCAT vocabulary. 
 - [examples](https://github.com/datatagsuite/examples): This repository contains example instance data files (JSON or JSON-LD files) representing different datasets using the DATS model. 
 - [WG3-MetadataSpecifications](https://github.com/datatagsuite/WG3-MetadataSpecifications): This repository is a fork of the original reposity where DATS development started, as part of the bioCADDIE project
 - [dats-tools](https://github.com/datatagsuite/dats-tools): This repository contains python code to validate DATS metadata. 
